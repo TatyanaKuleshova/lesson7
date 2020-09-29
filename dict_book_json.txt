@@ -1,0 +1,1 @@
+{"autor": "Stephen King", "name": "Institute", "release_age": 2020, "price": 752}
